@@ -1,0 +1,37 @@
+{
+	"emp":[
+		      {
+			"id": 01,
+
+		 	 "name": "Sam",
+
+			 "designation": "Software Engineer", 
+
+			 "skills": ["C","Java","C++","Python","MATLAB"] 
+		      },
+		      {
+
+			"id": 02,
+
+			"name": "Ram",
+
+			"designation": "Test Engineer",
+
+			"skills": ["Python","Selenium","Functional testing"]
+		      },
+
+		      {
+			
+			"id": 03,
+
+			"name": "Sruthi",
+
+			"designation": "Lead Engineer",
+
+			"skills": ["Python","C++","R","Perl","Java"]
+
+		      }
+
+
+]
+}
